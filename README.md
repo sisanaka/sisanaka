@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sisanaka
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and Data Science concepts
-- 💞️ I’m looking to collaborate on Python 
+- 💞️ I’m looking to learn and collaborate on Python and Data Science
 - 📫 How to reach me ...
 
 <!---
